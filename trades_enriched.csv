@@ -1,0 +1,2 @@
+slug,token_id,sport,symbol,entry_ts,exit_ts,holding_hours,entry_mid,exit_mid,entry_price,exit_price,size,spread_at_entry,fair_a,fair_b,momentum,book_edge_delta,book_size_mult,ref_source,exit_reason,exit_reason_category,pnl_pct,cash_pnl_usdc,realized_pnl,outcome,market_resolved
+will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup,79397003434468715775480922117285203652110865791390656395657957066470661722480,,,2026-06-09T15:29:50.577685+00:00,2026-06-10T18:59:38.105595+00:00,27.5,0.375,0.575,0.382,0.568,1.385999999999999790,0.98,,,,,,,,,48.69,0.2578,0.7923,win,1
